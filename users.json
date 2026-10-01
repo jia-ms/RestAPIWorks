@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "age": 28,
+    "place": "Bengaluru",
+    "gender": "male",
+    "date_of_birth": "1995-03-15",
+    "id": 1
+  },
+  {
+    "name": "Priya Nair",
+    "age": 25,
+    "place": "Kochi",
+    "gender": "female",
+    "date_of_birth": "2000-07-22",
+    "id": 2
+  },
+  {
+    "name": "Rohan Mehta",
+    "age": 34,
+    "place": "Mumbai",
+    "gender": "male",
+    "date_of_birth": "1991-11-05",
+    "id": 3
+  },
+  {
+    "name": "Ananya Iyer",
+    "age": 22,
+    "place": "Chennai",
+    "gender": "female",
+    "date_of_birth": "2003-01-30",
+    "id": 4
+  },
+  {
+    "name": "Vikram Singh",
+    "age": 41,
+    "place": "Delhi",
+    "gender": "male",
+    "date_of_birth": "1984-09-12",
+    "id": 5
+  },
+  {
+    "name": "Sneha Reddy",
+    "age": 29,
+    "place": "Hyderabad",
+    "gender": "female",
+    "date_of_birth": "1996-05-18",
+    "id": 6
+  },
+  {
+    "name": "Karan Malhotra",
+    "age": 31,
+    "place": "Pune",
+    "gender": "male",
+    "date_of_birth": "1994-12-01",
+    "id": 7
+  },
+  {
+    "name": "Divya Menon",
+    "age": 27,
+    "place": "Thiruvananthapuram",
+    "gender": "female",
+    "date_of_birth": "1998-04-09",
+    "id": 8
+  },
+  {
+    "name": "Arjun Kapoor",
+    "age": 36,
+    "place": "Ahmedabad",
+    "gender": "male",
+    "date_of_birth": "1989-08-25",
+    "id": 9
+  },
+  {
+    "name": "Neha Joshi",
+    "age": 24,
+    "place": "Jaipur",
+    "gender": "female",
+    "date_of_birth": "2001-02-17",
+    "id": 10
+  },
+  {
+    "name": "Aditya Rao",
+    "age": 39,
+    "place": "Kolkata",
+    "gender": "male",
+    "date_of_birth": "1986-10-03",
+    "id": 11
+  },
+  {
+    "name": "Isha Verma",
+    "age": 26,
+    "place": "Lucknow",
+    "gender": "female",
+    "date_of_birth": "1999-06-27",
+    "id": 12
+  },
+  {
+    "name": "Sameer Khan",
+    "age": 33,
+    "place": "Bhopal",
+    "gender": "male",
+    "date_of_birth": "1992-01-15",
+    "id": 13
+  },
+  {
+    "name": "Diksha",
+    "age": 25,
+    "place": "Texas",
+    "gender": "female",
+    "date_of_birth": "2026-09-17",
+    "id": 14
+  },
+  {
+    "name": "Tanmay Desai",
+    "age": 30,
+    "place": "Surat",
+    "gender": "other",
+    "date_of_birth": "1995-07-11",
+    "id": 15
+  }
+]

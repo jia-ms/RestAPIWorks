@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Local data (remove this line if you want users.json tracked)
+users.json
+
+# Databases
+*.db
+*.sqlite3
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
